@@ -199,10 +199,10 @@ limit 10 ;
 
 ## Findings
 
-**Data Quality**: Duplicates removed, prices corrected, missing values handled, dates standardized.
-**Product Performance**: Top and low-selling products identified for inventory and marketing focus.
-**Customer Segmentation**: Customers classified as No, Low, Medium, or High orders.
-**Customer Behavior**: Frequent buyers identified for loyalty and retention strategies.
+**Data Quality**: Duplicates removed, prices corrected, missing values handled, dates standardized.                                     
+**Product Performance**: Top and low-selling products identified for inventory and marketing focus.                           
+**Customer Segmentation**: Customers classified as No, Low, Medium, or High orders.                           
+**Customer Behavior**: Frequent buyers identified for loyalty and retention strategies.                        
 
 ## Reports 
 
