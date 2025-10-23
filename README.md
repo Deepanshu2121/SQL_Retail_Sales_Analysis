@@ -26,7 +26,7 @@ Total Quantity of Products Purchased  |  Customer Segment
 ### 1. Database Setup
 
 - ** Database Creation **: The project starts by creating a database named `retail_project`
-- ** Table Importing **: The table names `customer_profiles`, `product_inventory` and `sales_transaction_cdate_nodup`.
+- ** Table Imported **: The table names `customer_profiles`, `product_inventory` and `sales_transaction_cdate_nodup`.
 
 ### Data Exploration and Cleaning :
 - ** Record Count **: Determine the total number of records in the dataset.
