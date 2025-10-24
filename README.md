@@ -17,8 +17,7 @@ queries. This project is ideal for those who are starting their journey in data 
 Total Quantity of Products Purchased  |  Customer Segment
 0                                     -    No Order, 
 1-10                                  -    Low,
-10-30                                 -    Mid, 
->30                                   -    High 
+10-30                                 -    Mid,   >30                                   -    High 
 4. To analyze customer behavior for insights on repeat purchases and loyalty, informing customer retention strategies.
 
 ## Project Structure
