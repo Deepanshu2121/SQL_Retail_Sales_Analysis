@@ -2,8 +2,8 @@
 
 ## Project Overview 
 
-**Project Title**: Retail Sales Analysis
-**Level**: Beginner 
+**Project Title**: Retail Sales Analysis                                             
+**Level**: Beginner                                                 
 **DataBase**:`retail_project`
 
 This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. The
@@ -226,4 +226,5 @@ product performance.
 ## Author - Zero Analyst
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to
+
 collaborate, feel free to get in touch!
