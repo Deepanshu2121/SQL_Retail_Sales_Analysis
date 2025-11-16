@@ -1,4 +1,4 @@
--- <1> Business Problem :-
+-- <1> Business Problems :-
 -- To utilize SQL queries for data cleaning and exploratory data analysis to ensure data quality and gain initial insights.
 
 -- Objective :- 
